@@ -1,1 +1,1 @@
-# StudentRegistrationApplicationP2
+# StudentRegistratrionApplication
